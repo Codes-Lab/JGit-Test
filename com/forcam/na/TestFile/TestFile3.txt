@@ -1,4 +1,4 @@
-Hey this is TestFile3
+Hey this is TestFile3 updated
 title$ffworkbench$framework$defaultMainframeTitle;Workbench FORCAM FORCEâ„¢
 lbl$ffworkbench$columnHeaderDescription;Description
 lbl$ffworkbench$columnHeaderHelp;Help
