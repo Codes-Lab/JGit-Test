@@ -2,7 +2,7 @@ title$ffworkbench$framework$defaultMainframeTitle;Workbench FORCAM FORCEâ„¢
 lbl$ffworkbench$columnHeaderDescription;Description
 lbl$ffworkbench$columnHeaderHelp;Help
 lbl$ffworkbench$columnHeaderShortDescription;Short Description
-lbl$ffworkbench$columnHeaderIdentifier;Identifier
+lbl$ffworkbench$columnHeaderIdentifier;Identifier name
 lbl$ffworkbench$columnHeaderValue;Value
 lbl$ffworkbench$columnHeaderName;Name
 lbl$ffworkbench$columnHeaderCostCenter;Cost Center
