@@ -1,4 +1,3 @@
-Hey this is TestFile3 updated
 title$ffworkbench$framework$defaultMainframeTitle;Workbench FORCAM FORCEâ„¢
 lbl$ffworkbench$columnHeaderDescription;Description
 lbl$ffworkbench$columnHeaderHelp;Help
@@ -18,4 +17,3 @@ lbl$ffworkbench$columnHeaderPersonalNumber;Employee No.
 lbl$ffworkbench$columnHeaderPersonalIdentityCardNumber;I.D. Card No.
 lbl$ffworkbench$columnHeaderLastName;Last Name
 lbl$ffworkbench$columnHeaderFirstName;First Name
-Hello there man
