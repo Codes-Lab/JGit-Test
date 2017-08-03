@@ -1,7 +1,7 @@
 title$ffworkbench$framework$defaultMainframeTitle;Workbench FORCAM FORCE™
 lbl$ffworkbench$columnHeaderDescription;Description
 lbl$ffworkbench$columnHeaderHelp;Help
-lbl$ffworkbench$columnHeaderShortDescription;Short Description changed something
+lbl$ffworkbench$columnHeaderShortDescription;Short Description changed something else
 lbl$ffworkbench$columnHeaderIdentifier;Identifier
 lbl$ffworkbench$columnHeaderValue;Value
 lbl$ffworkbench$columnHeaderName;Name Abhishek
