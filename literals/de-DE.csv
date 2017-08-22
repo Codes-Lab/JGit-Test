@@ -1,5 +1,5 @@
 1;lbl$ffworkbench$columnHeaderDescription2;ColumnChangedAgain
-1;lbl$ffworkbench$columnHeaderDescription;ColumnChanged
+1;lbl$ffworkbench$columnHeaderDescription;ColumnChangedHi
 1;lbl$ffworkbench$columnHeaderHelp;Hilfe
 1;lbl$ffworkbench$columnHeaderShortDescription;Kurzbeschreibung
 1;lbl$ffworkbench$columnHeaderIdentifier;Bezeichner
@@ -7,7 +7,7 @@
 1;lbl$ffworkbench$columnHeaderName;Name
 1;lbl$ffworkbench$columnHeaderCostCenter;Kostenstelle
 1;lbl$ffworkbench$columnHeaderClient;Mandant
-1;lbl$ffworkbench$columnHeaderCompanyCode;Buchungskreis
+1;lbl$ffworkbench$columnHeaderCompanyCode;Buchungskreis he
 1;lbl$ffworkbench$columnHeaderPlant;Werk
 1;lbl$ffworkbench$columnHeaderErpKey;ERP Schlüssel
 1;lbl$ffworkbench$columnHeaderPersonnelArea;Personal Bereich
