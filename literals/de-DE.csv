@@ -1,5 +1,5 @@
 1;title$ffworkbench$framework$defaultMainframeTitle;Workbench FORCAM FORCE™
-1;lbl$ffworkbench$columnHeaderDescription;Abhishek
+1;lbl$ffworkbench$columnHeaderDescription;Beschreibung
 1;lbl$ffworkbench$columnHeaderHelp;Hilfe
 1;lbl$ffworkbench$columnHeaderShortDescription;Kurzbeschreibung
 1;lbl$ffworkbench$columnHeaderIdentifier;Bezeichner
@@ -3473,4 +3473,4 @@
 1;lbl$ffworkbench$cfgName$preShiftMode;Modi für die rückwärtige Zeitraum Korrektur
 1;lbl$ffworkbench$cfgName$preShiftModeAll;Keine Einschränkung
 1;lbl$ffworkbench$cfgComment$preShiftModeAll;Keine Einschränkung
-1;lbl$ffworkbench$cfgName$preShiftModeFixTime;Fe
+1;lbl$ffworkbench$cfgName$preShiftModeFixTime;Fester Zeitraum in [ms]
